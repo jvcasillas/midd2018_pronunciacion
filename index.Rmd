@@ -37,6 +37,16 @@ class: inverse, middle, center
 ### www.jvcasillas.com/midd2018_pronunciacion/
 
 ---
+background-image: url(./assets/img/ali.jpeg)
+background-size: contain
+background-color: black
+
+---
+background-image: url(./assets/img/ali2.png)
+background-size: contain
+background-color: black
+
+---
 
 class: middle
 
@@ -73,6 +83,9 @@ class: middle, center, inverse
 
 ## Más herramientas a nuestra disposición </br>para ayudarnos a enseñar la pronunciación </br>(i.e., estrategias pedagógicas, tecnología del habla, etc.).
 
+# `r emojifont::emoji("sunglasses")`
+
+
 ---
 
 # ¿Por qué es importante?
@@ -100,56 +113,67 @@ class: inverse, middle, center
 ---
 class: inverse, middle, center
 
-# La pronunciación representa una habilidad<br>**inevitable** y **esencial** <br>para el aprendiz
+# 1. La pronunciación representa una habilidad<br>**inevitable** y **esencial** <br>para el aprendiz
 
 ???
 
-Una nueva lengua significa poder
-y la pronuncación es un símbolo audible de ese poder, o falta de poder
-El aprendiz obligatoriamente tiene que pronunciar si quiere hablar una L2
+Una nueva lengua significa poder  
+y la pronuncación es un símbolo audible de ese poder, o falta de poder  
+El aprendiz obligatoriamente tiene que pronunciar si quiere hablar una L2  
 Cómo pronuncian requiere su atencion antes, durante e incluso despues de un acto de comunicacion
 
 ---
+class: inverse, center, middle
 
-2. La enseñanza de la pronunciación funciona
+# 2. La enseñanza de la pronunciación **funciona**
 
 ???
 
 Como profesores, damos por hecho que lo que enseñamos es importante (ya sea gramática, culura, teatro, etc)
 
 Pero erroneamente se cree que la enseñanza de la pronunciación es diferente
+y no nos fiamos de los resultados
 
-As language teachers, we typically assume that what we teach makes a difference, whether we teach grammar, vocabulary, pragmatics, listening, reading or writing. But pronunciation teaching is too often thought to be unique in its results, with it outcomes uncertain at best. Thus teachers often avoid it, doing it only in response to errors that irritate or that are so egregious that they cannot be ignored. Such a reactionary approach to pronunciation teaching ignores one of the great truths from research findings: Learners almost always improve when they are instructed with some degree of regularity.
+por esta razón los profesores típicamente evitan la pronunciación, quizá se 
+corrige solamente los errores que más nos irriten o que sean tan graves que 
+se tienen que mejorar
+
+Por desgracia esta manera de hacer las cosas ignora los hallazgos de las investigaciones más actuales: los aprendices casi siempre mejoran cuando reciben 
+instrucción de manera consistente
 
 ---
+class: inverse, middle, center
 
-3. La pronunciación es significativa debido a (1) las oportunidades que crea 
-para el aprendiz dentro del ambiente de la lengua meta y  (2) a la exclusión 
-social que puede crear cuando los aprendices se encuentran con miedo a la hora 
-de hablar. 
+# 3. La pronunciación es **significativa** debido a 
+
+## (a) las oportunidades que crea para el aprendiz <br>dentro del ambiente de la lengua meta
+
+## (b) la exclusión social que puede crear cuando el aprendiz <br>se encuentra con miedo a la hora de hablar
 
 ???
 
-We are social beings, and whether others include or exclude us has powerful 
-effects on our ability to represent ourselves. 
-Pronunciation is often the key that opens the gate to the social world around 
-us, and not being able to pronounce acceptably creates barriers to 
-self-representation.
+Somos animales sociales y si los demás nos incluyen o no afecta nuestra capacidad 
+de representarnos a nosotros mismos
+
+La pronunciación puede ser la llave que abre la puerta al mundo social a nuestro 
+alrededor
+
+No poder pronunciar de manera aceptable y entendible crea barreras para la autorepresentación
 
 ---
+class: inverse, middle, center
 
-4. La enseñanza de la pronunciación encaja bien y naturalmente con la 
-enseñanza de otras destrezas relacionadas con la lengua
+# 4. La enseñanza de la pronunciación es **natural** </br> y encaja bien con la enseñanza de otras destrezas
 
 ???
 
-When learners read or read aloud, the ability to verbalize the words, phrases 
-and sentences encourages comprehension. 
-Vocabulary is almost always meant to be spoken, and pronounced, and speaking 
-and listening without pronouncing or listening to others pronounce is not 
-possible. 
-Pronunciation is a servant skill, to be used in the service of other skills, 
-and is most effective when this is its role in the language classroom.
+Al leer de manera normal o en voz alta, la capacidad de vocalizar las palabras 
+fomenta la comprensión
+
+El vocabulario casi siempre es para decirlo, y hablar y escuchar sin la pronunciación es imposible
+
+La pronunciación es una habilidad que sirve para ayudar otras habilidades y 
+es más efectiva se utiliza de esta manera en la clase
 
 <!--
 1. Pronunciation is an unavoidable and essential skill for language learners
@@ -162,8 +186,9 @@ other language skills
 -->
 
 ---
+class: inverse, middle, center
 
-# Unas cuantas mentiras
+# .RUred[Unas cuantas mentiras]
 
 ---
 
@@ -173,8 +198,7 @@ other language skills
 
 --
 
-### La pronunciación se aprende sola, por lo que no hace falta instrucción 
-explícita
+### La pronunciación se aprende sola, por lo que no hace falta instrucción explícita
 
 --
 
@@ -184,9 +208,7 @@ explícita
 
 # Recursos
 
----
-
-# Información
+## Información
 
 - [www.pronunciationforteachers.com](www.pronunciationforteachers.com)
 
@@ -201,7 +223,9 @@ https://www.isd.su.se/english/exploring-language-education-ele-local-and-global-
 
 ---
 
-# Tecnología
+# Recursos
+
+## Tecnología
 
 - www.ispraak.com
 
@@ -214,6 +238,10 @@ https://www.isd.su.se/english/exploring-language-education-ele-local-and-global-
 - Pistas prácticas para la integración de la pronunciación en tus lecciones 
 (webinar):  
 http://eventcenter.commpartners.com/se/Meetings/Playback.aspx?meeting.id=290652
+
+---
+
+<iframe src="https://www.ispraak.com/" height="600" width="1000"></iframe> 
 
 ---
 
